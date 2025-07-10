@@ -25,10 +25,10 @@
 
 ## Dataset
 
-| Name | #Samples | Sensors | Target | Link |
-|------|---------:|---------|--------|------|
-| Debutanizer | 2 394 | 9 | Butane purity | <https://example.com/debu.zip> |
-| SRU | 10 081 | 12 | Octane number | <https://example.com/sru.zip> |
+| Name | #Samples | Sensors | Target |  
+|------|---------:|---------|--------|
+| Debutanizer | 2 394 | 7 | Butane | 
+| SRU | 10 081 | 5 | SO2 | 
 
 ---
 
