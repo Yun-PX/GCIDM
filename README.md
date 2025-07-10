@@ -9,11 +9,11 @@
 
 | Environment | Version / Package                             |
 |-------------|-----------------------------------------------|
-| **Python**  | ≥ 3.9                                         |
-| **PyTorch** | ≥ 2.2                          |
-| **Lightning** | ≥ 2.2                                       |
-| **DGL**     | ≥ 1.1                                         |
-| **Others**  | numpy, scipy, scikit-learn, yaml, optuna      |
+| **Python**       | ≥ 3.9                                    |
+| **PyTorch**      | ≥ 1.13.1                                 |
+| **scikit-learn** | ≥ 1.3.2                                  |
+| **scipy**        | ≥ 1.11.4                                 |
+| **Others**  | numpy, tensorboard, openssl, oauthlib         |
 
 [//]: # (```bash)
 
